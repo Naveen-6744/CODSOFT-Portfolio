@@ -225,6 +225,7 @@ nav {
   text-align: center;
   color: rgb(13, 25, 94);
   padding: 12px 0;
+  justify-content: center;
 }
 
 @media screen and (max-width: 768px) {
